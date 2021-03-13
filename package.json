@@ -1,0 +1,23 @@
+{
+  "name": "mys",
+  "version": "1.0.0",
+  "description": "Maabara ya Shambani. Using ML to detect weeds",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithkiarie/mys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithkiarie/mys/issues"
+  },
+  "homepage": "https://github.com/keithkiarie/mys#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
